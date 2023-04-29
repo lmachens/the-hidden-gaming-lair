@@ -84,7 +84,7 @@ export default function Home() {
             description="Database with buildings, factions, units, skills, spells and wielders"
           />
           <CardLink
-            href="https://th.gl"
+            href="https://lol.th.gl"
             src="/th.jpg"
             alt="Trophy Hunter"
             title="League Of Legends"
