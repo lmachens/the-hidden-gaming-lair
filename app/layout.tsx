@@ -1,5 +1,5 @@
 import { Exo_2 as Font } from "next/font/google";
-import PlausibleTracker from "./PlausibleTracker";
+import { PlausibleTracker } from "./PlausibleTracker";
 import "./globals.css";
 
 const font = Font({
