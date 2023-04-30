@@ -109,7 +109,7 @@ export default function Home() {
             src="/newworldcompanion.jpg"
             alt="New World Companion"
             title="New World Companion App"
-            description="A companion app for New World, to keep track of all your learned recipes and current trading post prices."
+            description="Keep track of your learned recipes and current trading post prices."
           />
         </div>
         <section>
