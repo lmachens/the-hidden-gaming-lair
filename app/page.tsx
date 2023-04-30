@@ -108,7 +108,7 @@ export default function Home() {
             href="https://github.com/josdemmers/NewWorldCompanion"
             src="/newworldcompanion.jpg"
             alt="New World Companion"
-            title="A companion app for New World"
+            title="New World Companion App"
             description="A companion app for New World, to keep track of all your learned recipes and current trading post prices."
           />
         </div>
