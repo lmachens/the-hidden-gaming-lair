@@ -1,4 +1,5 @@
 import { Exo_2 as Font } from "next/font/google";
+import PlausibleTracker from "./PlausibleTracker";
 import "./globals.css";
 
 const font = Font({
@@ -24,6 +25,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="scroll-smooth">
+      <head>
+        <PlausibleTracker />
+      </head>
       <body
         className={`${font.className} bg-gradient-to-b from-[#161516] to-[#09080c] select-none`}
       >
