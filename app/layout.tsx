@@ -12,6 +12,9 @@ export const metadata = {
   keywords: "gaming, apps, interactive maps, databases, achievement trackers",
   authors: [{ name: "DevLeon", url: "https://github.com/lmachens" }],
   viewport: "width=device-width, initial-scale=1.0",
+  alternates: {
+    canonical: "https://www.th.gl",
+  },
 };
 
 export default function RootLayout({
