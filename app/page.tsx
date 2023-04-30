@@ -104,6 +104,13 @@ export default function Home() {
             title="Website Overlays"
             description="Simply display any website as customizable Overlay"
           />
+          <CardLink
+            href="https://github.com/josdemmers/NewWorldCompanion"
+            src="/newworldcompanion.jpg"
+            alt="New World Companion"
+            title="A companion app for New World"
+            description="A companion app for New World, to keep track of all your learned recipes and current trading post prices."
+          />
         </div>
         <section>
           <h2
