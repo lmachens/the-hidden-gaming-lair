@@ -49,6 +49,13 @@ export default function Home() {
 
         <div className="p-4 flex flex-wrap gap-8 justify-center">
           <CardLink
+            href="https://diablo4.th.gl"
+            src="/diablo4.jpg"
+            alt="Diablo 4 Map"
+            title="Diablo 4 Map"
+            description="Discover Sancturay with real-time position tracking"
+          />
+          <CardLink
             href="https://aeternum-map.gg"
             src="/aeternum-map.jpg"
             alt="Aeternum Map"
