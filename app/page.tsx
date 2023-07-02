@@ -48,6 +48,13 @@ export default function Home() {
         </h2>
 
         <div className="p-4 flex flex-wrap gap-8 justify-center">
+        <CardLink
+            href="https://diablo4.th.gl"
+            src="/diablo4-map.jpg"
+            alt="Diablo 4 Map"
+            title="Diablo 4 Map"
+            description="Discover locations, altars, cellars, dungeons, waypoints & more."
+          />
           <CardLink
             href="https://diablo4.th.gl"
             src="/diablo4.jpg"
